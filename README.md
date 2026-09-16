@@ -1,4 +1,4 @@
-# SIMCITY: JAKARTA BLOON EDITION
+# SIMCITY: JAKARTA BLOON EDITION™
 
 > **A Municipal Management Game That Should Never Have Been Approved.**
 
